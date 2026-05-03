@@ -1,14 +1,9 @@
 {
   "quests": [
     {
-      "quest_id": 101,
-      "name": "Slay the Goblin King",
-      "reward_id": 5050
-    },
-    {
-      "quest_id": 102,
-      "name": "Collect 10 Iron Ores",
-      "reward_id": 1020
+      "quest_id": 1496645830361223358,
+      "name": "NTE LAUNCH TRAILER QUEST",
+      "reward_id": 1342211853484429445
     }
   ]
 }
